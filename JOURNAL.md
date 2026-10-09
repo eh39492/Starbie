@@ -41,6 +41,7 @@ Then, with all the keybinds learned and a rhythm set, I locked in and placed the
 
 ![Screenshot 2026-10-05 202144](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/865zpjCy5G9OC9atYCS9lcJ2wHUyjAn3/eb66ac1ecd22a742ad12f12594e0bee6eb32a281e9cfbadb1b16f0b7829fec40.png)
 
+TL;DR, got set up and  made schematic.
 Sorry if this isn't long enough or is missing things: this is my first time. :)
 
 ### 2026-10-07 – oct 7
