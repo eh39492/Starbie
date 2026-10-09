@@ -58,6 +58,8 @@ after fixing the library and beginning to properly assign stuff
 ASSIGNEMENTS FINISHED!!
 thx
 
+TL;DR: fixed care package import, assigned footprints.
+
 ### 2026-10-09 – first i got everything into the PCB editor,and dealt with errors.
 
 **3h**
