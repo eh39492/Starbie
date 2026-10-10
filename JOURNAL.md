@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 8h | 3 |
+| Week 1 | Tier 1 | 7.3h | 3 |
 
 ## Contents
 
@@ -46,7 +46,7 @@ Sorry if this isn't long enough or is missing things: this is my first time. :)
 
 ### 2026-10-07 – oct 7
 
-**2h**
+**1.3h**
 
 oct 7
 again, it was late last night, and i didn't have time to journal.
