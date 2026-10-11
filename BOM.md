@@ -13,15 +13,14 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main Xiao board -the brain | 1 | $4.99 | $4.99 | [Seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [0.96 OLED](https://www.amazon.com/dp/B0GBVWBWCR) | see the light | 1 | $5.99 | $5.99 | [Amazon](https://www.amazon.com/dp/B0GBVWBWCR) |
 | [MPU6050](https://www.amazon.com/dp/B0943SGP34) | Track movement | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0943SGP34) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Temprature | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | my PCB | 1 | $10.60 | $10.60 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$41.44** | — |
+| **Parts subtotal** | — | — | — | **$35.45** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$41.44** | — |
+| **Total** | — | — | — | **$35.45** | — |
 
-**$11.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.45 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
