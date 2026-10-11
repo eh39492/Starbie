@@ -13,9 +13,6 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main Xiao board -the brain | 1 | $4.99 | $4.99 | [Seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | — | 4 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
-| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | — | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | my PCB | 1 | $10.60 | $10.60 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$15.59** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
