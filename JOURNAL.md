@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 17.6h | 5 |
+| Week 1 | Tier 1 | 19.3h | 5 |
 
 ## Contents
 
@@ -113,7 +113,7 @@ TL;DR: finished design, mostly finished Arduino
 
 ### 2026-10-11 – Oct 11- finishing
 
-**6.3h**
+**8h**
 
 Oct 11- finishing
 It turns out 30$ is a pretty hard tier to stay under. Like, REALLY hard, but let's go in order
@@ -147,7 +147,10 @@ This took a while because of name mistranslations, and sometimes it was very har
 Finally, after finishing looking for parts and putting them into my BOM, I turned to my repo and worked on imports and the README
 
 ![Screenshot 2026-10-11 191453](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/865zpjCy5G9OC9atYCS9lcJ2wHUyjAn3/0e76d29b6d81b9a64cbcd4c437a50b3d1dd53d36b538d2e2420f7a688d536e15.png)
-
+Then I realized I had parts from AliExpress assigned incorrectly, and I had to take and deal with all of that
+Essentially just finalizing and fixing errors and stuff.
+Going through the publish project pages and making my 15hr progress reel
+![Screenshot 2026-10-11 194028](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/865zpjCy5G9OC9atYCS9lcJ2wHUyjAn3/bc5d0675bdafa8a2117ce994eb1d23e079fb4a535e3441b194551686bee2fa59.png)
 DONE
 
 TL;DR: finished up Arduino, shopped for parts, finished
