@@ -21,7 +21,7 @@
 | [MPU6050](https://www.aliexpress.us/item/3256809542137777.html?spm=a2g0o.productlist.seoads.9.4bbc23e7sIFvsW&p4p_pvid=202610040151208332901842851840004235097_5&gatewayAdapt=glo2usa4itemAdapt) | for motion sensing | 1 | $2.54 | $2.54 | [AliExpress](https://www.aliexpress.us/item/3256809542137777.html?spm=a2g0o.productlist.seoads.9.4bbc23e7sIFvsW&p4p_pvid=202610040151208332901842851840004235097_5&gatewayAdapt=glo2usa4itemAdapt) |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4U6U28hBnO7Gwl8uEPqc9DfK_kh9uyxqUMWskzUCZVWec_0PD2WYbU) | Main board | 1 | $4.99 | $4.99 | [Seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4U6U28hBnO7Gwl8uEPqc9DfK_kh9uyxqUMWskzUCZVWec_0PD2WYbU) |
 | **Parts subtotal** | — | — | — | **$31.73** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$33.73** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$31.73** | — |
 
-**$3.73 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.73 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
