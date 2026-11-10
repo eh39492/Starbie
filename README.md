@@ -4,7 +4,7 @@ made for half life week 1
 CODE
 The code is mostly stock, with some custom inputs and a special sparkle animation
 Functions react to motion, button presses, and temperature, which will all interact with the code to create individual reactions.
-<img width="1185" height="851" alt="Screenshot 2026-10-28 164353" src="https://github.com/user-attachments/assets/9f58ca83-4eba-497e-8976-889640f8056e" />
+
 
 
 <img width="1122" height="691" alt="Screenshot 2026-10-27 111814" src="https://github.com/user-attachments/assets/77cf59bd-bb99-4ca9-908f-1de48e319b8d" />
