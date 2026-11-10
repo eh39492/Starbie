@@ -1,10 +1,11 @@
+
 I'm making Starbie, a Digital pet. 
 It will sense movement, temperature, and button clicks. It is on a personalized board shaped like a cloud with a smiley face and other graphics. It will have energy and happiness levels. The XIAO will be the brain, with two buttons, a motion sensor, and a temperature gauge. 
 made for half life week 1
 CODE
 The code is mostly stock, with some custom inputs and a special sparkle animation
 Functions react to motion, button presses, and temperature, which will all interact with the code to create individual reactions.
-
+<img width="1387" height="847" alt="Screenshot 2026-11-10 184732" src="https://github.com/user-attachments/assets/b2685616-e1d5-4bba-a6d0-58802e1e9fe1" />
 
 
 <img width="1122" height="691" alt="Screenshot 2026-10-27 111814" src="https://github.com/user-attachments/assets/77cf59bd-bb99-4ca9-908f-1de48e319b8d" />
